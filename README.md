@@ -1,2 +1,2 @@
-# laravelCodeTacticsInRussian
-Перевод laravel code tactics
+# Laravel Clean Code Tactics in russian
+Перевод laravel clean code tactics
